@@ -1,0 +1,8 @@
+partnerLinks: ['/home/arpit165/Desktop/XML-Parser-In-Python/HandleAttachments.bpel', 'begin_line:40 begin_column:3', 'end_line:46 end_column:4']
+variables: ['/home/arpit165/Desktop/XML-Parser-In-Python/HandleAttachments.bpel', 'begin_line:47 begin_column:3', 'end_line:50 end_column:4', 'begin_line:62 begin_column:9', 'end_line:65 end_column:10']
+sequence: ['/home/arpit165/Desktop/XML-Parser-In-Python/HandleAttachments.bpel', 'begin_line:51 begin_column:3', 'begin_line:66 begin_column:9', 'end_line:80 end_column:10', 'end_line:83 end_column:4']
+receive: ['/home/arpit165/Desktop/XML-Parser-In-Python/HandleAttachments.bpel', 'begin_line:52 begin_column:5, end_line:56 end_column:50']
+forEach: ['/home/arpit165/Desktop/XML-Parser-In-Python/HandleAttachments.bpel', 'begin_line:57 begin_column:5', 'end_line:82 end_column:6']
+scope: ['/home/arpit165/Desktop/XML-Parser-In-Python/HandleAttachments.bpel', 'begin_line:61 begin_column:7', 'end_line:81 end_column:8']
+assign: ['/home/arpit165/Desktop/XML-Parser-In-Python/HandleAttachments.bpel', 'begin_line:67 begin_column:11', 'end_line:75 end_column:12']
+invoke: ['/home/arpit165/Desktop/XML-Parser-In-Python/HandleAttachments.bpel', 'begin_line:76 begin_column:11, end_line:79 end_column:44']

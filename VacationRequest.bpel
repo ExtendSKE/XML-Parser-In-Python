@@ -1,3 +1,4 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
 <process xmlns="http://schemas.xmlsoap.org/ws/2003/03/business-process/"
          name="VacationRequest"
          targetNamespace="http://xmlns.oracle.com/VacationRequest"
