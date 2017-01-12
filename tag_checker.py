@@ -98,7 +98,7 @@ if __name__ == "__main__":
         source_code_file.close()
         dict= {}
         dict=finding_tags_info(dict,data,list_found_tag,i[0])
-        dict_out=open(i[1].replace('.bpel','.txt'),'w')     ##Writing dictionary in output file
+        dict_out=open(i[0].replace('.bpel','.txt'),'w')     ##Writing dictionary in output file
         #dict_out.write("File_Path : "+i[0]+"\n")  #path of file
         for i in list_found_tag:
             dict_out.write(i+": "+str(dict[i])+"\n")

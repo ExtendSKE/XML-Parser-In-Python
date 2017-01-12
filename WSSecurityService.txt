@@ -1,7 +1,0 @@
-partnerLinks: ['/home/arpit165/Desktop/XML-Parser-In-Python/WSSecurityService.bpel', 'begin_line:15 begin_column:3', 'end_line:18 end_column:4']
-variables: ['/home/arpit165/Desktop/XML-Parser-In-Python/WSSecurityService.bpel', 'begin_line:19 begin_column:3', 'end_line:25 end_column:4']
-sequence: ['/home/arpit165/Desktop/XML-Parser-In-Python/WSSecurityService.bpel', 'begin_line:26 begin_column:3', 'end_line:43 end_column:4']
-receive: ['/home/arpit165/Desktop/XML-Parser-In-Python/WSSecurityService.bpel', 'begin_line:27 begin_column:5, end_line:30 end_column:43']
-empty: ['/home/arpit165/Desktop/XML-Parser-In-Python/WSSecurityService.bpel', 'begin_line:31 begin_column:5, end_line:31 end_column:26']
-assign: ['/home/arpit165/Desktop/XML-Parser-In-Python/WSSecurityService.bpel', 'begin_line:32 begin_column:5', 'end_line:39 end_column:6']
-reply: ['/home/arpit165/Desktop/XML-Parser-In-Python/WSSecurityService.bpel', 'begin_line:40 begin_column:5, end_line:42 end_column:37']

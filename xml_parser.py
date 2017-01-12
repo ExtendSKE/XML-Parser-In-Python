@@ -1,7 +1,9 @@
 ## XML Parser using  ElementTree-Api in Python
 # TO run this code use : python3 filenname
 import xml.etree.ElementTree as ET
-tree = ET.parse('country_data.xml')
+import subprocess as SP
+path = SP.getoutput('pwd')
+tree = ET.parse(path+'/test/country_data.xml')
 root = tree.getroot()
 dict={}
 val = "0"          # index value

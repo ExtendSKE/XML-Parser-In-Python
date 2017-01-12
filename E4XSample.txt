@@ -1,5 +1,0 @@
-partnerLinks: ['/home/arpit165/Desktop/XML-Parser-In-Python/E4XSample.bpel', 'begin_line:14 begin_column:3', 'end_line:17 end_column:4']
-variables: ['/home/arpit165/Desktop/XML-Parser-In-Python/E4XSample.bpel', 'begin_line:18 begin_column:3', 'end_line:23 end_column:4']
-sequence: ['/home/arpit165/Desktop/XML-Parser-In-Python/E4XSample.bpel', 'begin_line:24 begin_column:3', 'end_line:50 end_column:4']
-receive: ['/home/arpit165/Desktop/XML-Parser-In-Python/E4XSample.bpel', 'begin_line:25 begin_column:5, end_line:27 end_column:59']
-reply: ['/home/arpit165/Desktop/XML-Parser-In-Python/E4XSample.bpel', 'begin_line:48 begin_column:5, end_line:49 end_column:57']
