@@ -12,7 +12,7 @@ def depth_search(path,extension,error_log):
     dirs = os.listdir(path)
     #print(dirs)
     if len(dirs)==0:
-        error_log.wrtie("Warning: "+path+" No file exist of extension "+extension+"\n")
+        error_log.write("Warning: "+path+" No file exist of extension "+extension+"\n")
         return
     count =0
     for file in dirs:
